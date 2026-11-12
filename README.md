@@ -18,6 +18,7 @@ Built for a local plumbing and drainage business, this offline-first desktop app
 * **Database:** SQLite3
 
 ## Database Architecture
+![Entity-Relationship Diagram](image_2026-11-12_214716559.png)
 
 
 ## Repository Contents
