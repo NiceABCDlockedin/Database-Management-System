@@ -1,6 +1,6 @@
 Top-Spec Plumbing & Drainage — Database Management System
 
-A desktop business and database management application developed in Python for my OCR A-Level Computer Science (H446/03) Programming Project. This project scored **64/70 (Grade A\*)** in the June 2026 examination series.
+A desktop business and database management application developed in Python for my OCR A-Level Computer Science (H446/03) Programming Project. This project scored 64/70 (Grade A*) in the June 2026 examination series.
 
 Overview:
 Built for a local plumbing and drainage business, this offline-first desktop application replaces fragmented paper records and manual tracking with a relational database. It handles appointment scheduling, quote and guarantee requests and invoicing through a graphical interface.
