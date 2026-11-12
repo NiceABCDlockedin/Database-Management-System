@@ -24,8 +24,9 @@ Built for a local plumbing and drainage business, this offline-first desktop app
 
 ## How to Run the Program
 1. Ensure Python 3.13 or newer is installed on your system.
-2. Clone or download this repository, keeping all three files in the same directory.
-3. Run the application from your terminal or IDE:
+2. Ensure that the fpdf module is installed on your system. If you are unsure, go into Command Prompt and type ```pip install fpdf``` to install the module.
+3. Clone or download this repository, keeping all three files in the same directory.
+4. Run the application from your terminal or IDE:
    ```bash
    python "Database Management System.py"
    ```
