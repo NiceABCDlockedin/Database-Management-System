@@ -17,6 +17,9 @@ Built for a local plumbing and drainage business, this offline-first desktop app
 * **GUI Framework:** Tkinter
 * **Database:** SQLite3
 
+## Database Architecture
+![Entity-Relationship Diagram](ERD%20for%20Programming%20Project.jpg)
+
 ## Repository Contents
 * `Database Management System.py` — Main application source code containing the Tkinter GUI, validation logic, and database queries.
 * `Backend.db` — Pre-configured SQLite database populated strictly with fictional test data *(no real customer or business records are stored)*.
